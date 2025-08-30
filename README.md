@@ -1,3 +1,27 @@
+{
+  "title": "Pediatric Flat Foot Orthotic Belt – Innovative Non-surgical Management",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "Flat foot (pes planus) is a common pediatric concern, often associated with leg pain, fatigue, and abnormal gait. This project presents an innovative, non-invasive, and affordable orthotic solution: a custom-designed felt and foam-based foot belt. Successfully applied in over 100 pediatric patients, the belt corrects the medial arch, redistributes midfoot load, and improves posture. Method: Customized felt straps with foam padding and Velcro fastening provide mid-foot support, stabilize the collapsed arch, and restore alignment during standing and walking. Transparent wrap may be used for fixation in children. Clinical Evidence: 1. Untreated pediatric flat foot (pre-treatment), 2. Orthotic belt in place with transparent wrap, 3. Post-treatment arch restoration and relief. Conclusion: This orthotic belt innovation, developed by Dr. Rajatsubhra Mukhopadhyay, demonstrates potential as a preventive and corrective tool in pediatric orthotic care.",
+  "creators": [
+    {
+      "name": "Mukhopadhyay, Rajatsubhra",
+      "orcid": "0000-0001-5658-8016",
+      "affiliation": "Child Health Care Arambag (Q135493189); Sri Yoga Center Trust, Kunarpur (Q135898418)"
+    }
+  ],
+  "keywords": [
+    "Pediatric Flat Foot",
+    "Pes Planus",
+    "Orthotic Belt",
+    "Non-surgical Management",
+    "Leg Pain",
+    "Innovation",
+    "Rajatsubhra Mukhopadhyay"
+  ],
+  "license": "MIT"
+}
+
 # Pediatric-Flat-Foot-and-Leg-Pain-A-Non-surgical-Foot-Belt-Innovation
 Flat Foot Belt: a low-cost, reusable device for pediatric flat foot and leg pain. Provides arch support, proprioceptive feedback, and symptom relief. Includes clinical protocol, fitting guide, and follow-up templates.
 # Flat-foot-belt-innovation
