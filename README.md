@@ -19,18 +19,28 @@ This project documents a **low-cost, non-surgical Foot Belt protocol** designed 
 
 ### Step 1 – Clinical Observation
 Flat foot confirmed by visual and weight-bearing inspection.  
-![Flat Foot](media/flat_foot.jpg)  
+![Flat Foot](m/,imag/flat_foot.jpg)  
 *Figure 1. Flat foot showing absent medial arch.*
 
 ### Step 2 – Trial with Foam & Tape
 A temporary arch support using foam/cotton wrapped with cellotape.  
-![Trial Correction](media/trial_foam_tape.jpg)  
+![Trial Correction](image/trial_foam_tape.jpg)  
 *Figure 2. Initial correction trial before making the belt.*
 
 ### Step 3 – Flat Foot Belt
 A reusable strap-based device fabricated for daily use.  
-![Flat Foot Belt](media/flat_foot_belt.jpg)  
+![Flat Foot Belt](image/flat_foot_belt.jpg)  
 *Figure 3. Prototype of the Flat Foot Belt.*
+## Clinical Images – Flat Foot Orthotic Belt Innovation
+
+### Figure 1: Customized Orthotic Belts
+![Flat Foot Orthotic Belts](images/flatfoot_belts.jpg)
+
+### Figure 2: Orthotic Support in Place with Transparent Wrap
+![Orthotic Belt with Transparent Wrap](images/flatfoot_wrap.jpg)
+
+### Figure 3: Untreated Pediatric Flat Foot (Pre-Treatment)
+![Untreated Pediatric Flat Foot](images/flatfoot_untreated.jpg)
 
 ---
 
