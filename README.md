@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17009956.svg)](https://doi.org/10.5281/zenodo.17009956)
 {
   "title": "Pediatric Flat Foot Orthotic Belt – Innovative Non-surgical Management",
   "upload_type": "publication",
