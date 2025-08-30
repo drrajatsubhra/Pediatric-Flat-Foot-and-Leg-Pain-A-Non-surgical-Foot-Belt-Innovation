@@ -102,7 +102,7 @@ Templates included in `/data` and `/docs`.
 ## 🔹 Citation
 Mukhopadhyay, R. (Dr. Rajatsubhra).  
 *Pediatric Flat Foot & Leg Pain — Non-surgical Foot Belt Innovation.*  
-GitHub: <repo URL> | DOI: 10.5281/zenodo.xxxxxxx
+GitHub: <repo URL> | DOI:10.5281/zenodo.17009956
 
 ---
 
